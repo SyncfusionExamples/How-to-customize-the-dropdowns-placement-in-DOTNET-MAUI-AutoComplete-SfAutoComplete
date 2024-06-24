@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace DropdownwidthMaui
+namespace DropdownPlacementAutoComplete
 {
     [Application]
     public class MainApplication : MauiApplication

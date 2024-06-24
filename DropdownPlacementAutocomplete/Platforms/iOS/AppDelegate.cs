@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace DropdownwidthMaui
+namespace DropdownPlacementAutoComplete
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

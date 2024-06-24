@@ -1,4 +1,4 @@
-﻿namespace DropdownwidthMaui
+﻿namespace DropdownPlacementAutoComplete
 {
     public partial class App : Application
     {
