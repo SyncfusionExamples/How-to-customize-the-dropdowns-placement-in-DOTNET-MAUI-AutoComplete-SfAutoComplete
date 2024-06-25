@@ -1,13 +1,13 @@
-# How-to-customize-the-dropdowns-placement-in-DOTNET-MAUI-AutoComplete-SfAutoComplete
-This repository contains a sample demonstrating of customizing the dropdown's placement in .NET MAUI AutoComplete
+# How-to-customize-the-dropdowns-placement-in-.NET-MAUI-AutoComplete-SfAutoComplete
+This repository contains a sample demonstrating of customizing the dropdown's placement in .NET MAUI AutoComplete.
 ## DropdownPlacement support in .NET MAUI Autocomplete (SfAutocomplete)
- We can change the dropdown's position in SfAutoComplete by changing the DropdownPlacement value.
+ We can change the dropdown's position in SfAutoComplete by changing the DropdownPlacement value.By adjusting this DropdownPlacement value, you can control the dropdown's position to better suit the design and functionality of your application.
 
 The following code example illustrate how to set DropdownPlacement in SfAutocomplete.
 
 **XAML**
 ```
-<editors:SfAutocomplete DropDownPlacement ="Auto"
+<editors:SfAutocomplete DropDownPlacement ="Top"
                         HeightRequest="40"
                        WidthRequest="200">
     <editors:SfAutocomplete.ItemsSource>
