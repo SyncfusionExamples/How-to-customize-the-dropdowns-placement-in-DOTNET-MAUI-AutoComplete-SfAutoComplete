@@ -4,7 +4,7 @@
              xmlns:editors="clr-namespace:Syncfusion.Maui.Inputs;assembly=Syncfusion.Maui.Inputs"
              x:Class="DropdownPlacementAutoComplete.MainPage">
 
-    <editors:SfAutocomplete DropDownPlacement ="Auto"
+    <editors:SfAutocomplete DropDownPlacement ="Top"
                         HeightRequest="40"
                        WidthRequest="200">
         <editors:SfAutocomplete.ItemsSource>
